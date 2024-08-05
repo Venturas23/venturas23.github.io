@@ -10,8 +10,8 @@
 .swiper-slide img {
     width: 100%;
 }
-.swiper-botton-prev,
-.swiper-botton-next{
+.swiper-button-prev,
+.swiper-button-next{
     display: none;
 }
 .swiper-pagination {
