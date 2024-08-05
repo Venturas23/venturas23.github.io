@@ -10,3 +10,7 @@
 .swiper-slide img {
     width: 100%;
 }
+.swiper-botton-prev,
+.swiper-botton-next{
+    display: none;
+}
