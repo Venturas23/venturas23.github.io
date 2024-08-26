@@ -90,4 +90,10 @@
         color: var(--preto);
 
     }
+    .container__imagem-transparente {
+        display:none;
+    }
+    .cabeçalho__menu-hamburguer{
+        display: none;
+    }
 }
