@@ -78,13 +78,6 @@
     .container__titulo--negrito{
         font-weight: 700;
     }
-    .opções__botão:checked ~ .lista-menu {
-        display: block;
-        width: auto;
-    }
-    .opções__botão {
-        display:none;
-    }
     .opções {
         display: flex;
     }
@@ -102,6 +95,13 @@
     }
     .cabeçalho__menu-hamburguer{
         display: none;
+    }
+    .opções__botão:checked ~ .lista-menu {
+        display: block;
+        width: auto;
+    }
+    .opções__botão {
+        display:none;
     }
     
 }
